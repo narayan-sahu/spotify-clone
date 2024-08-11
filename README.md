@@ -12,8 +12,6 @@ The project is deployed and can be accessed live at [play-spotify.netlify.app](h
 - [Live Demo](#live-demo)
 - [Project Structure](#project-structure)
 - [Installation](#installation)
-- [Contributing](#contributing)
-- [Contact](#contact)
 
 ## Overview
 
