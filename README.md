@@ -12,9 +12,6 @@ Welcome to the **Spotify Clone** project! 🎧 This is a simplified yet visually
 - [✨ Features](#-features)
 - [🛠️ Technologies Used](#%EF%B8%8F-technologies-used)
 - [🚀 Live Demo](#-live-demo)
-- [📂 Project Structure](#-project-structure)
-- [⚡ Installation](#-installation)
-- [🤝 Contributing](#-contributing)
 
 ---
 
